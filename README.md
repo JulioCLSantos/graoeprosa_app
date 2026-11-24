@@ -37,8 +37,3 @@ Checklist manual em `docs/TESTES.md`.
 | 5. Consistência com o protótipo | `theme.dart`; conferir com o Marvel (Dia 9 e 14) |
 | 6. Testes essenciais | `test/app_test.dart` e `docs/TESTES.md` |
 | 7. Documentação e apresentação | este README e `docs/APRESENTACAO.md` |
-
-## Pendências
-- Trocar os preços de exemplo pelos reais.
-- Conferir cores e fontes com o protótipo e ajustar em `theme.dart`.
-- Menu lateral: o protótipo não mostra o conteúdo dele; usei Início, Cardápio e Contato.
